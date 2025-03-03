@@ -1,6 +1,6 @@
 # Midterm Exam (Adding Ledger To Inventory Management System)
 
-### run node install first for installing dependencies.
+### run npm install first for installing dependencies.
 
 **Name:** Guragampreet Singh
 **Student Number:** 8913870
